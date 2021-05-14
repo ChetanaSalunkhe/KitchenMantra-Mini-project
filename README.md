@@ -16,7 +16,7 @@ In this project following points are covered -
         d. What's new in this receipe
         e. Receipe name, duration, veg/nonveg category etc.
   5. Explore All receipes -
-        a. All receipes, Veg receipes, Non-Veg receipes 
+        a. All receipes, Veg receipes, Non-Veg receipes using tab layout
         b. Bottomsheet dialog to give feedback for receipe
         c. Add receipe to favourites
   
